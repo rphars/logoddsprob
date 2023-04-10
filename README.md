@@ -1,6 +1,6 @@
-# 1dloglik
+# Logoddsprob
 
-1dloglik is a Shiny application that allows you to play around with fitting a normal distribution using maximum likelihood
+1dloglik is a Shiny application that visualizes the conversion between log odds, odds and probability. Note that the model does not include a constant, so baseline odds are 1:1.
 
 ## Run
 
@@ -13,5 +13,5 @@ install.packages(c("shiny", "ggplot2"))
 then use:
 
 ```r
-shiny::runGitHub("rphars/1dloglik")
+shiny::runGitHub("rphars/logoddsprob")
 ```
