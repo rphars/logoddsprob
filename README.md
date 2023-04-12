@@ -1,6 +1,6 @@
 # Logoddsprob
 
-1dloglik is a Shiny application that visualizes the conversion between log odds, odds and probability. Note that the model does not include a constant, so baseline odds are 1:1.
+Logoddsprob is a Shiny application that visualizes the conversion between log odds, odds and probability. Note that the model does not include a constant, so baseline odds are 1:1.
 
 ## Run
 
